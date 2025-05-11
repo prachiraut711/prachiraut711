@@ -8,8 +8,4 @@ I'm a 3rd-year Computer Science Engineering student at Genba Sopanrao Moje Colle
 - Databases: MySQL, Firebase
 - Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
 
-🔥 Projects
-- Amazon Clone - Built using HTML & CSS
-- BMI Calculator - Flutter app for tracking health
-- Flutter Notes App - Offline notes-taking app using Flutter
-- Online Book Store - Backend powered by SQL & Python
+
