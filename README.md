@@ -34,7 +34,7 @@ I like building complete products — from designing the interface and developin
 
 ## ✨ Selected Builds
 
-A selection of projects across **AI, full-stack development, data, and mobile**.
+A selection of projects across **AI, full-stack development, data engineering, and mobile**.
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ A selection of projects across **AI, full-stack development, data, and mobile**.
 
 A platform for event ingestion, anomaly detection, incident correlation, and AI-assisted diagnostics.
 
-**React · TypeScript · FastAPI · PostgreSQL · Redis · Scikit-learn**
+**React · TypeScript · FastAPI · PostgreSQL · DuckDB · Redis Streams · Scikit-learn · OpenRouter · Docker**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/SignalFlow)**
 
@@ -60,7 +60,7 @@ A platform for event ingestion, anomaly detection, incident correlation, and AI-
 
 Combines ticket workflows with AI-powered sentiment analysis, categorization, summaries, and suggested responses.
 
-**React · TypeScript · Node.js · PostgreSQL · Prisma · Gemini**
+**React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Gemini · Docker · GitHub Actions**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/SmartSupport-AI)**
 
@@ -72,11 +72,11 @@ Combines ticket workflows with AI-powered sentiment analysis, categorization, su
 
 ### 🛡️ DataTrust
 
-**Data-focused engineering and intelligent data platform.**
+**Data engineering & AI-powered data platform.**
 
-Built around practical data processing, analysis, and intelligent workflows.
+A full-stack platform combining data processing, analytics, machine learning, and AI-powered capabilities.
 
-**Python · Data Processing · AI/ML · Database Technologies**
+**React · TypeScript · FastAPI · PostgreSQL · DuckDB · Pandas · NumPy · Scikit-learn · Gemini · Docker**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/DataTrust)**
 
@@ -88,9 +88,9 @@ Built around practical data processing, analysis, and intelligent workflows.
 
 **AI-powered developer intelligence platform.**
 
-A full-stack application combining developer workflows, data, APIs, and AI-powered capabilities.
+Analyzes GitHub repositories, pull requests, issues, and workflow runs with AI-powered code review and deployment failure analysis.
 
-**React · TypeScript · Python · FastAPI · PostgreSQL · Gemini**
+**React 19 · TypeScript · FastAPI · Python · PostgreSQL · Supabase · Gemini · GitHub App · Docker · GitHub Actions**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/devpulse-ai)**
 
@@ -102,11 +102,11 @@ A full-stack application combining developer workflows, data, APIs, and AI-power
 
 ### 💬 ChatApp
 
-**Real-time chat application.**
+**Real-time Flutter chat application.**
 
-A messaging application focused on real-time communication and a clean user experience.
+A mobile messaging application built with Flutter and Firebase, featuring Google authentication, cloud-based real-time data, and reactive state management.
 
-**React · Node.js · Express · MongoDB · Socket.IO**
+**Flutter · Dart · Firebase · Cloud Firestore · Firebase Auth · Google Sign-In · GetX**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/ChatApp)**
 
@@ -118,9 +118,9 @@ A messaging application focused on real-time communication and a clean user expe
 
 **Full-stack event booking platform.**
 
-Users can discover events, view event details, and manage event bookings through a modern web interface.
+A web application for discovering events, viewing event details, and managing event bookings with secure authentication and email services.
 
-**React · Node.js · Express · MongoDB · REST APIs**
+**React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Mongoose · JWT · Nodemailer**
 
 🔗 **[Explore the project →](https://github.com/prachiraut711/Event-Booking-Web-App)**
 
