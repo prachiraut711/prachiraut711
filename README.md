@@ -132,61 +132,102 @@ A web application for discovering events, viewing event details, and managing ev
 
 ## 🎨 My Toolbox
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart" />
+<p align="center">
+  <strong>Languages</strong>
 </p>
 
-**Python · TypeScript · JavaScript · Dart · SQL**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,cpp" />
+</p>
 
-### 🌐 Frontend
+<p align="center">
+  Python · TypeScript · JavaScript · Dart · C++ · SQL
+</p>
 
-<p>
+<br>
+
+<p align="center">
+  <strong>Frontend</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-**React · TypeScript · JavaScript · Vite · Tailwind CSS · shadcn/ui**
+<p align="center">
+  React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+</p>
 
-### ⚙️ Backend
+<br>
 
-<p>
+<p align="center">
+  <strong>Backend</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-**Node.js · Express.js · FastAPI · Flask · REST APIs · JWT**
+<p align="center">
+  Node.js · Express.js · FastAPI · Flask · REST APIs · JWT
+</p>
 
-### 📱 Mobile
+<br>
 
-<p>
+<p align="center">
+  <strong>Mobile</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
-**Flutter · Dart · React Native · Expo · GetX**
+<p align="center">
+  Flutter · Dart · React Native · Expo · GetX
+</p>
 
-### 🤖 AI / ML
+<br>
 
-<p>
+<p align="center">
+  <strong>AI / ML & Data</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-**Google Gemini · OpenRouter · YOLOv8 · OpenCV · Scikit-learn · Pandas · NumPy · Isolation Forest**
+<p align="center">
+  Google Gemini · OpenRouter · YOLOv8 · OpenCV · Scikit-learn · Pandas · NumPy · DuckDB
+</p>
 
-### 🗄️ Databases & Data
+<br>
 
-<p>
+<p align="center">
+  <strong>Databases</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,redis" />
 </p>
 
-**PostgreSQL · MongoDB · MySQL · Firebase · Supabase · Prisma · DuckDB · Redis**
+<p align="center">
+  PostgreSQL · MongoDB · MySQL · Firebase · Supabase · Prisma · Redis
+</p>
 
-### 🛠️ Tools & DevOps
+<br>
 
-<p>
+<p align="center">
+  <strong>Tools & DevOps</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,github,githubactions,git,postman,figma" />
 </p>
 
-**Git · GitHub · GitHub Actions · Docker · Docker Compose · Postman · Swagger · Figma**
+<p align="center">
+  Git · GitHub · GitHub Actions · Docker · Docker Compose · Postman · Swagger · Figma
+</p>
+
 
 ---
 
