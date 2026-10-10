@@ -84,36 +84,6 @@ A full-stack platform combining data processing, analytics, machine learning, an
 
 <td width="50%" valign="top">
 
-### 📊 DevPulse AI
-
-**AI-powered developer intelligence platform.**
-
-Analyzes GitHub repositories, pull requests, issues, and workflow runs with AI-powered code review and deployment failure analysis.
-
-**React 19 · TypeScript · FastAPI · Python · PostgreSQL · Supabase · Gemini · GitHub App · Docker · GitHub Actions**
-
-🔗 **[Explore the project →](https://github.com/prachiraut711/devpulse-ai)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💬 ChatApp
-
-**Real-time Flutter chat application.**
-
-A mobile messaging application built with Flutter and Firebase, featuring Google authentication, cloud-based real-time data, and reactive state management.
-
-**Flutter · Dart · Firebase · Cloud Firestore · Firebase Auth · Google Sign-In · GetX**
-
-🔗 **[Explore the project →](https://github.com/prachiraut711/ChatApp)**
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🎟️ EventSphere
 
 **Full-stack event booking platform.**
